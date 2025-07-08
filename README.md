@@ -65,11 +65,6 @@ Untuk menjalankan proyek ini di lingkungan lokal Anda, ikuti langkah-langkah ber
     ```
 
 
-
-## 📈 Hasil
-
-Proyek ini menghasilkan perbandingan performa antara model Logistic Regression, Random Forest, dan LSTM. Berdasarkan evaluasi, model **[Nama Model Terbaik, misal: LSTM]** menunjukkan performa terbaik dengan akurasi **[Contoh: 92%]** dan F1-score **[Contoh: 0.91]**. Hasil ini menunjukkan bahwa [jelaskan sedikit kesimpulan Anda, misalnya: "arsitektur deep learning lebih efektif dalam menangkap konteks dan nuansa dalam teks ulasan dibandingkan model machine learning klasik untuk dataset ini"].
-
 ## 🤝 Kontribusi
 
 Kontribusi untuk pengembangan proyek ini sangat diterima. Jika Anda ingin berkontribusi, silakan lakukan *fork* pada repositori ini, buat *branch* baru untuk fitur atau perbaikan Anda, dan kirimkan *pull request*.
