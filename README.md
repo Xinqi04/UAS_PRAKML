@@ -66,3 +66,5 @@ Untuk menjalankan proyek ini di lingkungan lokal Anda, ikuti langkah-langkah ber
 ## 🤝 Kontribusi
 
 Kontribusi untuk pengembangan proyek ini sangat diterima. Jika Anda ingin berkontribusi, silakan lakukan *fork* pada repositori ini, buat *branch* baru untuk fitur atau perbaikan Anda, dan kirimkan *pull request*.
+
+Terima Kasih
