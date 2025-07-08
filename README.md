@@ -36,29 +36,6 @@ Proyek ini dibangun menggunakan bahasa pemrograman **Python** dengan beberapa li
   * **Matplotlib & Seaborn:** Untuk visualisasi data dan hasil model.
   * **Jupyter Notebook:** Sebagai environment untuk pengembangan dan analisis interaktif.
 
-## 📁 Struktur Repositori
-
-```
-.
-├── data/
-│   ├── raw_reviews.csv         # Data ulasan mentah
-│   └── processed_reviews.csv   # Data ulasan setelah dibersihkan
-├── notebooks/
-│   ├── 01_data_exploration.ipynb   # Notebook untuk eksplorasi data
-│   ├── 02_preprocessing.ipynb      # Notebook untuk pra-pemrosesan teks
-│   ├── 03_modelling_logres_rf.ipynb# Notebook untuk model LogReg dan RF
-│   └── 04_modelling_lstm.ipynb     # Notebook untuk model LSTM
-├── src/
-│   ├── data_loader.py            # Script untuk memuat data
-│   ├── preprocessing.py          # Script untuk fungsi pra-pemrosesan
-│   └── model_evaluation.py       # Script untuk fungsi evaluasi
-├── models/
-│   ├── logistic_regression.pkl   # Model Logistic Regression yang telah dilatih
-│   ├── random_forest.pkl         # Model Random Forest yang telah dilatih
-│   └── lstm_model.h5             # Model LSTM yang telah dilatih
-├── requirements.txt                # Daftar library yang dibutuhkan
-└── README.md                       # File ini
-```
 
 ## ⚙️ Instalasi
 
@@ -87,17 +64,7 @@ Untuk menjalankan proyek ini di lingkungan lokal Anda, ikuti langkah-langkah ber
     pip install -r requirements.txt
     ```
 
-## 🚀 Cara Penggunaan
 
-Anda dapat menjalankan analisis dengan membuka dan menjalankan file Jupyter Notebook secara berurutan di dalam direktori `notebooks/`:
-
-1.  **Eksplorasi Data:** Buka `notebooks/01_data_exploration.ipynb` untuk melihat analisis data eksploratif.
-2.  **Pra-pemrosesan:** Jalankan `notebooks/02_preprocessing.ipynb` untuk membersihkan dan mempersiapkan data.
-3.  **Pemodelan:**
-      * Untuk model Machine Learning, jalankan `notebooks/03_modelling_logres_rf.ipynb`.
-      * Untuk model Deep Learning, jalankan `notebooks/04_modelling_lstm.ipynb`.
-
-Hasil dari setiap model, termasuk metrik evaluasi dan confusion matrix, akan ditampilkan di dalam masing-masing notebook.
 
 ## 📈 Hasil
 
