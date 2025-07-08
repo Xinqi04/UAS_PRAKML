@@ -22,8 +22,6 @@ Viki adalah platform streaming video yang populer, terutama untuk drama dan film
 
 Dataset yang digunakan dalam proyek ini adalah kumpulan ulasan aplikasi Viki yang diambil dari Google Play Store. Ulasan ini mencakup teks ulasan dan rating bintang yang diberikan oleh pengguna, yang kemudian dilabeli menjadi sentimen positif, negatif, atau netral.
 
-*(Anda bisa menambahkan detail lebih lanjut tentang dataset Anda di sini, misalnya jumlah data, periode pengambilan data, atau link ke dataset jika tersedia).*
-
 ## 🛠️ Teknologi dan Library
 
 Proyek ini dibangun menggunakan bahasa pemrograman **Python** dengan beberapa library utama, di antaranya:
